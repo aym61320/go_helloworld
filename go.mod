@@ -1,3 +1,3 @@
-module go-helloworld
+module main
 
 go 1.18
